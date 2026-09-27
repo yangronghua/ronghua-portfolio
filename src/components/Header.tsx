@@ -18,9 +18,6 @@ function Header() {
         >
           GitHub
         </a>
-        <a className="resume-link" href="/Ronghua-Yang-Resume.pdf" download>
-          Download Resume
-        </a>
       </div>
     </header>
   );

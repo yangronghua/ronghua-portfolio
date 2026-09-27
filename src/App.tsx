@@ -16,7 +16,6 @@ function App() {
     <div>
       <Navbar />
       <Header />
-  
       <main>
         <About/>
         <Skills/>
