@@ -6,13 +6,9 @@ function Header() {
 
         <h1>Ronghua Yang</h1>
 
-        <p className="header-title">
-          Junior Software Developer
-        </p>
+        <p className="header-title">Junior Software Developer</p>
 
-        <p className="header-location">
-          Sydney, Australia
-        </p>
+        <p className="header-location">Sydney, Australia</p>
 
         <a
           className="github-link"
@@ -22,9 +18,12 @@ function Header() {
         >
           GitHub
         </a>
+        <a className="resume-link" href="/Ronghua-Yang-Resume.pdf" download>
+          Download Resume
+        </a>
       </div>
     </header>
-  )
+  );
 }
 
 export default Header
